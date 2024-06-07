@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5 Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UE5 Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/UE5 Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/UE5 Projects/MyProject2/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/UE5 Projects/MyProject2/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YQ/A0EYT3C1H48SY4PFHCR8I4.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/FT/6NBVMZR1MRVIWK1XPVADIS.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GQ/2JOE7A322UQUJI5N7YUO1U.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QF/AF7L39S98QNSKZIERUJIM8.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ND/YPC39LVW6YQOML2QSGHMOQ.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4G/U8QNKO91BOHQ48NA2BNJ0L.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/54/L215C4L07BWR8PEJDF9NBY.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5D/CLOGF2XUKZ6S4Z29O1RI6H.uasset",
+				"D:/UE5 Projects/MyProject2/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/UE5 Projects/MyProject2/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"D:/UE5 Projects/MyProject2/Content/BP_Actor1.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"D:/UE5 Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IJ/MWA2XUMD9MVL9FJSIEYAQL.uasset",
+				"D:/UE5 Projects/MyProject2/Content/FPWeapon/Materials/BaseMaterial.uasset"
+			]
+		}
+	]
+}
